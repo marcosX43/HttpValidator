@@ -1,2 +1,4 @@
 # HttpValidator
-Probe working for HTTP and HTTPS
+Take a list of domains and probe for working http and https servers.
+
+
