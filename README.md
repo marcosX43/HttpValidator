@@ -1,2 +1,2 @@
 # HttpValidator
-Probe eorking for HTTP and HTTPS
+Probe working for HTTP and HTTPS
